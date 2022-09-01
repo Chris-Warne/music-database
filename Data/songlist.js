@@ -1,83 +1,164 @@
 export default [
   {
     id: 1,
-    name: 'Sunshine In A Jar',
+    songName: 'Sunshine In A Jar',
     composer: 'Chris Warne',
     image: '/images/Chriswarnelogo.jpg',
     genre: 'Rock Pop',
-    mood: 'uplifting'
+    mood: 'Uplifting,Anthemic',
+    url: 'https://soundcloud.com/chris-warne-1/sunshine-in-a-jar-chris-warne/s-u8vukXRTyK9?in=chris-warne-1/sets/music-libraries/s-njro1PN8x9N&si=ff6f487a0e1c41b9ab566dfe597298af&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
   },
   {
     id: 2,
-    name: 'Dreaming',
+    songName: 'Dreaming',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
     genre: 'Rock Pop',
-    mood: 'uplifting'
+    mood: 'Uplifting',
   },
   {
     id: 3,
-    name: 'Gold',
+    songName: 'Gold',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock'
+    genre: 'Rock',
+    mood: 'Uplifting,Corporate',
   },
   {
     id: 4,
-    name: 'Feeling Alright',
+    songName: 'Feeling Alright',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'Rock Pop',
+    mood: 'Uplifting',
   },
   {
     id: 5,
-    name: 'This Charmed Life',
+    songName: 'This Charmed Life',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'Rock Pop',
+    mood: 'Uplifting,Corporate',
   },
   {
     id: 6,
-    name: 'A joyful Heart',
+    songName: 'A joyful Heart',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'contemporary orchestral',
+    mood: 'Uplifting,Thoughtful',
   },
   {
     id: 7,
-    name: 'Cleo',
+    songName: 'Siren',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'Rock',
+    mood: 'Mean and Moody',
   },
   {
     id: 8,
+    songName: 'Planet Y',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'Rock Pop',
+    mood: 'Indie,Acoustic,Pop',
   },
   {
     id: 9,
+    songName: 'Treasured Summer',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
+    genre: 'Acoustic,folk,Alternative',
+    mood: 'Wholesome,Uplifting',
   },
   {
     id: 10,
+    songName: 'Sugar Burst',
     composer: 'Chris Warne',
     image: '/images/Chriswarne.jpg',
-    genre: 'Rock Pop'
-},
-{
-  id: 10,
-  composer: 'Chris Warne',
-  image: '/images/Chriswarne.jpg',
-  genre: 'Rock Pop'
-},
-{
-  id: 10,
-  composer: 'Chris Warne',
-  image: '/images/Chriswarne.jpg',
-  genre: 'Rock Pop'
-}
+    genre: 'Rock',
+    mood: 'Uplifting,Anthemic',
+  },
+  {
+    id: 11,
+    songName: 'TV Holidays',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Pop',
+    mood: 'Thoughtful,Inspired',
+  },
+  {
+    id: 12,
+    songName: 'The Winters Wrath',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Contemporary,Orchestral',
+    mood: 'Inspiring,Melancholy ',
+  },
+  {
+    id: 13,
+    songName: 'Embers Of Summer',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Piano,Orchestral',
+    mood: 'Inspiring,Thoughtful',
+  },
+  {
+    id: 14,
+    songName: 'Solar Winter',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Contemporary,Orchestral',
+    mood: 'Inspiring,Thoughtful',
+  },
+
+  {
+    id: 15,
+    songName: 'Refelective',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Contemporary,Acoustic,Orchestral',
+    mood: 'Inspiring,Uplifting',
+  },
+  {
+    id: 16,
+    songName: 'Reflective(ambient)',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Contemporary,Orchestral',
+    mood: 'Inspiring,Uplifting',
+  },
+  {
+    id: 17,
+    songName: 'An Asian Winter',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Piano,Orchestral',
+    mood: 'Inspiring,Thoughtful',
+  },
+  {
+    id: 18,
+    songName: 'Under The Stairs',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Rock Indie',
+    mood: 'Haunting,Scary,Mystical',
+  },
+  {
+    id: 19,
+    songName: 'Wholesome Morning',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Acoustic,Pop',
+    mood: 'Quirky,Uplifting',
+  },
+  {
+    id: 20,
+    songName: 'Racing To The Sun',
+    composer: 'Chris Warne',
+    image: '/images/Chriswarne.jpg',
+    genre: 'Rock,Pop',
+    mood: 'Uplifting',
+  },
 ]
