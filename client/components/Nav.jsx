@@ -7,7 +7,7 @@ function Nav () {
       <ul>
         <Link to='/'><li>Home</li></Link>
         <Link to='/contact'><li>Contact</li></Link>
-        <Link to='/FindASong'><li>Find A Song</li></Link>
+        <Link to='/songlist'><li>Song List</li></Link>
       </ul>
     </>
   )

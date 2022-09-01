@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import songlist from '../../data/songlist'
+import songlist from '../../Data/songlist'
 
 function Songlist () {
   return (
@@ -10,7 +10,7 @@ function Songlist () {
         <h3>All Songs</h3>
         <ul>
           {songlist.map(song => {
-            return <Link to={`/songlist/${song.id}`} key={song.id}><li>{song.name}</li></Link>
+            return <Link to={`/songlist/${song.id}`} key={song.id}><li>{song.songName}</li></Link>
           }
           )}
         </ul>
