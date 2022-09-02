@@ -48,3 +48,16 @@ body {
   text-align: center;
   color: black;
 }
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.App {
+
+background:#a6b9d8;
+height: 100vh;
+
+
+
+}

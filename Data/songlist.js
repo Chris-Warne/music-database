@@ -1,12 +1,12 @@
 export default [
   {
     id: 1,
-    songName:'Sunshine In A Jar',
+    songName:'songName: Sunshine In A Jar',
     composer: 'Composer: Chris Warne',
     image: '/images/chris_warne_logo.jpg',
     genre: 'Genre: Rock Pop',
     mood: 'Mood: Uplifting, Anthemic',
-    url: 'https://soundcloud.com/chris-warne-1/sunshine-in-a-jar-chris-warne/s-u8vukXRTyK9?in=chris-warne-1/sets/music-libraries/s-njro1PN8x9N&si=ff6f487a0e1c41b9ab566dfe597298af&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
+     
   },
   {
     id: 2,

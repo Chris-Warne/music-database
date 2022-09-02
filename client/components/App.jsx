@@ -6,14 +6,15 @@ import Songlist from './Songlist'
 import Nav from './Nav'
 import Song from './Song'
 
+
 const App = () => {
   const [count, setCount] = useState(0)
 
   return (
     <>
     <Nav/>
-      <h1>Count: {count}</h1>
-      <button onClick={() => setCount(count + 1)}>Click me!</button>
+    
+     
       <Routes>
       <Route path='/' element={<Home/>} />
       <Route path='/contact' element={<Contact/>} />
