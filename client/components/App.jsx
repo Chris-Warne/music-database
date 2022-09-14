@@ -5,6 +5,11 @@ import Home from './Home'
 import Songlist from './Songlist'
 import Nav from './Nav'
 import Song from './Song'
+import Navbar from '../components/navbar'
+import About from '../components/about'
+
+
+
 
 
 const App = () => {
@@ -13,10 +18,12 @@ const App = () => {
   return (
     <>
     <Nav/>
+   <Navbar/>
     
      
       <Routes>
       <Route path='/' element={<Home/>} />
+      <Route path='/about' element={<About/>} />
       <Route path='/contact' element={<Contact/>} />
       <Route path='/songlist' element={<Songlist/>} />
       <Route path='/songlist/:id' element={<Song/>} />
@@ -25,4 +32,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App 

@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    songName:'songName: Sunshine In A Jar',
+    songName:'Sunshine In A Jar',
     composer: 'Composer: Chris Warne',
     image: '/images/chris_warne_logo.jpg',
     genre: 'Genre: Rock Pop',

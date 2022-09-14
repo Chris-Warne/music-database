@@ -1,12 +1,12 @@
 import React from 'react'
-import song from './Song'
 
-function Home () {
+function Home() {
   return (
     <>
-      <div className='title'>
-        <h1>Welcome to Chris Warne Music</h1>
-        <img className='img-circle2' src={song.image}/>
+      <div className="title">
+        <h1 className="font2">Welcome To Chris Warne Music</h1>
+
+        <img src="images/studio_pic.jpg" className="img" alt="" />
       </div>
     </>
   )

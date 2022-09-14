@@ -7,8 +7,8 @@ function Songlist () {
   return (
     <>
       <div className='songlist-container'>
-        <h3>All Songs</h3>
-        <ul>
+        <h1 className='font3'>All Songs</h1>
+        <ul className='font3'>
           {songlist.map(song => {
             return <Link to={`/songlist/${song.id}`} key={song.id}><li>{song.songName}</li></Link>
           }

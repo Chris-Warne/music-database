@@ -9,13 +9,13 @@ function song() {
 
   return (
     <>
-      <h1>Song Details</h1>
-      <p>{song.songName}</p>
-      <p>{song.composer}</p>
-      <p>{song.mood}</p>
-      <p>{song.genre}</p>
-      <p>{song.url}</p>
-      <img className="img-circle" src={song.image} />
+      <h1 className="song-list">Song Details</h1>
+      <p className="song-list">{song.songName}</p>
+      <p className="song-list">{song.composer}</p>
+      <p className="song-list">{song.mood}</p>
+      <p className="song-list">{song.genre}</p>
+      <p className="song-list">{song.url}</p>
+      <img className="song-list" src={song.image} />
     </>
   )
 }
