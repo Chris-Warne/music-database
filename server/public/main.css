@@ -77,3 +77,25 @@ border-radius: 40%;
   text-align: center;
   color: #010606;
 }
+.songz {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+ }
+
+ 
+.imagez {  
+display: block;  
+margin-left: auto;  
+margin-right: auto;  
+border-radius: 40%;
+padding: 5px; 
+opacity: 0.02; 
+width: 1000px;
+height: 1000px;
+
+}  
+.songz2 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  margin-left:400px;
+ }

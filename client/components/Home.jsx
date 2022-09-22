@@ -1,9 +1,16 @@
 import React from 'react'
+import '../../server/public/custom.css'
+//  import 'bootstrap/dist/css/bootstrap.min.css'
+//  import '../../server/public/custom.css'
+
+// import { Container} from"react-bootstrap"
+
 
 function Home() {
   return (
     <>
       <div className="title">
+
         <h1 className="font2">Welcome To Chris Warne Music</h1>
 
         <img src="images/studio_pic.jpg" className="img" alt="" />
@@ -24,6 +31,7 @@ function Home() {
          <li className= "font3">Takamine EF25S</li>
          <li className= "font3">Focusrite ISA428 MK11</li>
         
+         
         </ul>
       </div>
     </>

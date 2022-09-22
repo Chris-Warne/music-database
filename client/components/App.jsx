@@ -8,17 +8,35 @@ import Song from './Song'
 import Navbar from '../components/navbar'
 import About from '../components/about'
 
+// import ReactPlayer from 'react-player'
 
 
 
 
-const App = () => {
-  const [count, setCount] = useState(0)
+//  import 'bootstrap/dist/css/bootstrap.min.css'
+//  import '../../server/public/custom.css'
+
+// import { Container} from"react-bootstrap"
+
+
+
+
+
+const App = () => { 
+   const [] = useState(0)
 
   return (
+    
+    
     <>
+   
     <Nav/>
+ 
+   
    <Navbar/>
+   
+  
+  
     
      
       <Routes>
@@ -27,9 +45,11 @@ const App = () => {
       <Route path='/contact' element={<Contact/>} />
       <Route path='/songlist' element={<Songlist/>} />
       <Route path='/songlist/:id' element={<Song/>} />
+     
       </Routes>
     </>
   )
 }
 
-export default App 
+
+export default App  

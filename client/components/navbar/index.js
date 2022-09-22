@@ -1,5 +1,8 @@
 import React from 'react'
-// import { NavLink } from 'react-router-dom'
+
+// import 'bootstrap/dist/css/bootstrap.min.css'
+// import '../server/public/custom.css'
+//  import { NavLink } from 'react-router-dom'
 import {
   Nav,
  NavLink,
@@ -18,18 +21,18 @@ const Navbar = () => {
         </NavLink>
         <Bars />
         <NavMenu>
-          <NavLink to="/about" activeStyle>
+          <NavLink to="/about" activestyle="true">
             About
           </NavLink>
-          <NavLink to="/contact" activeStyle>
+          <NavLink to="/contact" activestyle="true">
            Contact
           </NavLink>
-          <NavLink to="/" activeStyle>
+          <NavLink to="/" activestyle="true">
             Home
           </NavLink>
         </NavMenu>
         <NavBtn>
-          <NavBtnLink to="/songlist"> Songlist</NavBtnLink>
+          <NavBtnLink to="/songlist"> List Of Songs</NavBtnLink>
         </NavBtn>
       </Nav>
     </>

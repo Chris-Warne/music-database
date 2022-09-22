@@ -1,6 +1,8 @@
 import React from 'react'
+import ReactPlayer from 'react-player'
+
 import { useParams } from 'react-router-dom'
-import songlist from '../../Data/songlist'
+import songlist from '../../server/db/songlist'
 
 function song() {
   const { id } = useParams()
@@ -9,13 +11,20 @@ function song() {
 
   return (
     <>
-      <h1 className="song-list">Song Details</h1>
-      <p className="song-list">{song.songName}</p>
-      <p className="song-list">{song.composer}</p>
-      <p className="song-list">{song.mood}</p>
-      <p className="song-list">{song.genre}</p>
-      <p className="song-list">{song.url}</p>
-      <img className="song-list" src={song.image} />
+      <h1 className="songz">Song Details</h1>
+      <p className="songz">Song Name:{song.songName}</p>
+      <p className="songz">Writer:{song.composer}</p>
+      <p className="songz">Mood:{song.mood}</p>
+      <p className="songz">Genre:{song.genre}</p>
+      
+     {/* put react player below and url will pick it up */}
+      <div>
+     
+        <ReactPlayer url={song.url} />
+        <img className="imagez" src={song.image} />
+        
+      </div>
+      
     </>
   )
 }

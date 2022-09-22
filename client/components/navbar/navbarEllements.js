@@ -26,7 +26,6 @@ cursor: pointer;
 }
 
 `
-
 export const Bars = styled(FaBars)`
 display:none;
 color: #fff;
