@@ -12,7 +12,7 @@ function Songlist() {
           {songlist.map((song) => {
             return (
               <Link to={`/songlist/${song.id}`} key={song.id}>
-                <li>{song.songName}{song.url}</li>
+                <li>{song.songName}</li>
               </Link>
             )
           })}
