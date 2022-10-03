@@ -11,20 +11,22 @@ function Home() {
     <> 
     <body>
      
-      
+      <div className="container, background-image">
 
-        <div className= "background-image">
+     
+
+      
      
 
       
 
 
-        <h1 className="font2">Welcome To Chris Warne Music</h1>
+        <h1 className="font5">Welcome To Chris Warne Music</h1>
 
        
       
    
-          <h3 className="font2">Equipment</h3>
+          <h3 className="font2">Equipment:</h3>
           <ul>
      
          <li className= "font2">Focusrite clarett 8prex</li>

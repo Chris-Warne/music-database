@@ -47,14 +47,14 @@ body {
 
   /* opacity: 0.09;  */
   font-family: 'Secular One', sans-serif;
-  color:#dfeaea ;
+  color:#dfeaea ;?.
  
 
 }
 
 .nav {
   text-align: center;
-  color: black;
+  color: black(10, 117, 239);
  
   
 }
@@ -88,9 +88,28 @@ font-family: 'Secular One', sans-serif;
   color: #070219;
   font-size: 40px;
 }
+.font4 {
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #070219;
+  font-size: 25px;
+
+
+}
+.font5 {
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #15cdfc;
+  font-size: 40px;
+
+
+}
 .songz {
   text-align: center;
   font-family: 'Oswald', sans-serif;
+  font-size: 30px;
  }
 
  
@@ -117,10 +136,23 @@ height: 1000px;
  }
   .background-image {
   background-image: url("images/studio_pic.jpg"); 
-  background-size: 1900px 800px;
+  background-size: 1900px 1000px;
   background-repeat: no-repeat;
-  width: 1400px;
+  width: 1500px;
   height: 100vh 
   }
- 
+.background-image2 {
+background-image: url("images/vocalbooth.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1500px;
+  height: 100vh; 
+  image-resolution: 10%;
+}
+.container {
+position:relative;
+text-align: center;
+color:white
+
+}
 

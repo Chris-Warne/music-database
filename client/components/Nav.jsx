@@ -9,7 +9,7 @@ function Nav () {
     <>
       <ul>
        
-        {/* <Link className='nav' to='/'><li>Home</li></Link> */}
+         {/* <Link className='nav' to='/'><li>Home</li></Link> */} 
         {/* <Link className='nav' to='/contact'><li>Contact</li></Link> */}
         {/* <Link className='nav' to='/songlist'><li>Song List</li></Link> */}
         
