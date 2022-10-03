@@ -13,7 +13,7 @@ function song() {
     <>
       <h1 className="songz">Song Details</h1>
       <p className="songz">Song Name:{song.songName}</p>
-      <p className="songz">Writer:{song.composer}</p>
+      
       <p className="songz">Mood:{song.mood}</p>
       <p className="songz">Genre:{song.genre}</p>
       

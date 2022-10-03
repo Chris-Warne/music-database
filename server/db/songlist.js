@@ -3,7 +3,6 @@ export default [
   {
     id: 1,
     songName:'Sunshine In A Jar',
-    Writer: 'Composer: Chris Warne',
     image: '/images/chris_warne_logo.jpg',
     genre: 'Genre: Rock Pop',
     mood: 'Mood: Uplifting, Anthemic',
@@ -15,7 +14,7 @@ export default [
   {
     id: 2,
     songName: 'Dreaming',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock Pop',
     mood: 'Uplifting',
@@ -25,7 +24,7 @@ export default [
   {
     id: 3,
     songName: 'Gold',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
     mood: 'Uplifting,Corporate',
@@ -35,156 +34,194 @@ export default [
   {
     id: 4,
     songName: 'Feeling Alright',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock Pop',
     mood: 'Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/alrightinstrumental?in=chris-warne-1/sets/music-libraries'
 
   },
   {
     id: 5,
     songName: 'This Charmed Life',
-    Writer: 'Chris Warne',
+  
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock Pop',
     mood: 'Uplifting,Corporate',
+    url:'https://soundcloud.com/chris-warne-1/this-charmed-life?in=chris-warne-1/sets/music-libraries'
    
   },
   {
     id: 6,
     songName: 'A joyful Heart',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'contemporary orchestral',
     mood: 'Uplifting,Thoughtful',
+    url:'https://soundcloud.com/chris-warne-1/a-joyful-heart?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 7,
     songName: 'Siren',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
     mood: 'Mean and Moody',
+    url:'https://soundcloud.com/chris-warne-1/siren?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 8,
     songName: 'Planet Y',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: ['Rock','Pop'],
     mood: 'Indie,Acoustic,Pop',
+    url:'https://soundcloud.com/chris-warne-1/planet-y?in=chris-warne-1/sets/music-libraries'
    
   },
   {
     id: 9,
     songName: 'Treasured Summer',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Acoustic,folk,Alternative',
     mood: 'Wholesome,Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/treasured-summer?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 10,
     songName: 'Sugar Burst',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
     mood: 'Uplifting,Anthemic',
+    url:'https://soundcloud.com/chris-warne-1/sugar-burst?in=chris-warne-1/sets/music-libraries'
    
   },
   {
     id: 11,
     songName: 'TV Holidays',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Pop',
-    mood: 'Thoughtful,Inspired'
+    mood: 'Thoughtful,Inspired',
+    url:'https://soundcloud.com/chris-warne-1/tv-holidays?in=chris-warne-1/sets/music-libraries'
   },
    
   {
     id: 12,
     songName: 'The Winters Wrath',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Contemporary,Orchestral',
     mood: 'Inspiring,Melancholy ',
+    url:'https://soundcloud.com/chris-warne-1/the-winters-wrath?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 13,
     songName: 'Embers Of Summer',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Piano,Orchestral',
     mood: 'Inspiring,Thoughtful',
+    url:'https://soundcloud.com/chris-warne-1/embers-of-summer?in=chris-warne-1/sets/music-libraries'
    
   },
   {
     id: 14,
     songName: 'Solar Winter',
-    Writer: 'Chris Warne',
+   
     image:'/images/chris_warne_logo.jpg',
     genre: 'Contemporary,Orchestral',
     mood: 'Inspiring,Thoughtful',
+    url:'https://soundcloud.com/chris-warne-1/solar-winter-15?in=chris-warne-1/sets/music-libraries'
    
   },
 
   {
     id: 15,
     songName: 'Refelective',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'contemporary Orchestral',
     mood: 'Inspiring,Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/refelective-2?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 16,
     songName: 'Reflective(ambient)',
-    Writer: 'Chris Warne',
+   
     image:  '/images/chris_warne_logo.jpg',
     genre: 'Contemporary,Orchestral',
     mood: 'Inspiring,Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/refelective-amb2?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 17,
     songName: 'An Asian Winter',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Piano,Orchestral',
     mood: 'Inspiring,Thoughtful',
+    url:'https://soundcloud.com/chris-warne-1/an-asian-winter-3?in=chris-warne-1/sets/music-libraries'
    
   },
   {
     id: 18,
     songName: 'Under The Stairs',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock Indie',
     mood: 'Haunting,Scary,Mystical',
+    url:'https://soundcloud.com/chris-warne-1/arena-mastered-1?in=chris-warne-1/sets/music-libraries'
   },
    
   {
     id: 19,
     songName: 'Wholesome Morning',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Acoustic,Pop',
     mood: 'Quirky,Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/wholesome-morning?in=chris-warne-1/sets/music-libraries'
     
   },
   {
     id: 20,
     songName: 'Racing To The Sun',
-    Writer: 'Chris Warne',
+   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock,Pop',
     mood: 'Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/holidays-racing-to-the-sun?in=chris-warne-1/sets/music-libraries'
     
   },
+  {
+    id: 21,
+    songName: 'Rise Of The Mermen',
+   
+    image: '/images/chris_warne_logo.jpg',
+    genre: 'Pop,corporate',
+    mood: 'Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/rise-of-the-mermen?in=chris-warne-1/sets/music-libraries'
+    
+  },
+  {
+    id: 22,
+    songName: 'Sand Castles',
+   
+    image: '/images/chris_warne_logo.jpg',
+    genre: 'quirky,acoustic pop',
+    mood: 'Uplifting',
+    url:'https://soundcloud.com/chris-warne-1/sand-castles?in=chris-warne-1/sets/music-libraries'
+    
+  },
+
 ]
 

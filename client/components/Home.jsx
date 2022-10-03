@@ -8,32 +8,44 @@ import '../../server/public/custom.css'
 
 function Home() {
   return (
-    <>
-      <div className="title">
+    <> 
+    <body>
+     
+      
+
+        <div className= "background-image">
+     
+
+      
+
 
         <h1 className="font2">Welcome To Chris Warne Music</h1>
 
-        <img src="images/studio_pic.jpg" className="img" alt="" />
+       
       
-          <h3 className="font3">Equipment</h3>
+   
+          <h3 className="font2">Equipment</h3>
           <ul>
      
-         <li className= "font3">Focusrite clarett 8prex</li>
-         <li className= "font3">Apogee quartet</li>
-         <li className= "font3">DBX 266XS </li>
-         <li className= "font3">KRK Rokit6</li>
-         <li className= "font3">Rode K2 mic</li>
-         <li className= "font3">Rode NT1 mic</li>
-         <li className= "font3">Shure SM58 mic</li>
-         <li className= "font3">Shure PG81 mic</li>
-         <li className= "font3">Fender Telecaster</li>
-         <li className= "font3">Fender Jazz Bass</li>
-         <li className= "font3">Takamine EF25S</li>
-         <li className= "font3">Focusrite ISA428 MK11</li>
-        
+         <li className= "font2">Focusrite clarett 8prex</li>
+         <li className= "font2">Apogee quartet</li>
+         <li className= "font2">DBX 266XS </li>
+         <li className= "font2">KRK Rokit6</li>
+         <li className= "font2">Rode K2 mic</li>
+         <li className= "font2">Rode NT1 mic</li>
+         <li className= "font2">Shure SM58 mic</li>
+         <li className= "font2">Shure PG81 mic</li>
+         <li className= "font2">Fender Telecaster</li>
+         <li className= "font2">Fender Jazz Bass</li>
+         <li className= "font2">Takamine EF25S</li>
+         <li className= "font2">Focusrite ISA428 MK11</li>
+         
          
         </ul>
-      </div>
+        </div>
+    
+     
+      </body>
     </>
   )
 }
