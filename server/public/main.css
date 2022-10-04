@@ -93,7 +93,7 @@ font-family: 'Secular One', sans-serif;
   font-family: 'Mulish', sans-serif;
   text-align: center;
   color: #070219;
-  font-size: 25px;
+  font-size: 15px;
 
 
 }
@@ -106,10 +106,49 @@ font-family: 'Secular One', sans-serif;
 
 
 }
+.font6 {
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #3b4893;
+  font-size: 20px;
+  
+
+
+}
+.font7 {
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #23319b;
+  font-size: 35px;
+
+
+}
+.font8 {
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #23319b;
+  font-size: 20px;
+
+
+}
+.font9{
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #010310;
+  font-size: 20px;
+
+
+}
+
 .songz {
   text-align: center;
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
+ 
  }
 
  
