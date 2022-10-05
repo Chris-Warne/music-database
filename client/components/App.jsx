@@ -6,7 +6,8 @@ import Songlist from './Songlist'
 import Nav from './Nav'
 import Song from './Song'
 import Navbar from '../components/navbar'
-import About from '../components/about'
+import History from './History'
+
 
 // import ReactPlayer from 'react-player'
 
@@ -27,8 +28,8 @@ const App = () => {
 
   return (
     
-    
     <>
+    
    
     <Nav/>
  
@@ -41,12 +42,13 @@ const App = () => {
      
       <Routes>
       <Route path='/' element={<Home/>} />
-      <Route path='/about' element={<About/>} />
+      <Route path='/history' element={<History/>} />
       <Route path='/contact' element={<Contact/>} />
       <Route path='/songlist' element={<Songlist/>} />
       <Route path='/songlist/:id' element={<Song/>} />
      
       </Routes>
+     
     </>
   )
 }

@@ -21,8 +21,8 @@ const Navbar = () => {
         </NavLink>
         <Bars />
         <NavMenu>
-          <NavLink to="/about" activestyle="true">
-            About
+          <NavLink to="/history" activestyle="true">
+            History
           </NavLink>
           <NavLink to="/contact" activestyle="true">
            Contact

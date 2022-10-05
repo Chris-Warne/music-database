@@ -92,7 +92,7 @@ font-family: 'Secular One', sans-serif;
 
   font-family: 'Mulish', sans-serif;
   text-align: center;
-  color: #070219;
+  color: #920a0a;
   font-size: 15px;
 
 
@@ -129,7 +129,7 @@ font-family: 'Secular One', sans-serif;
 
   font-family: 'Mulish', sans-serif;
   text-align: center;
-  color: #23319b;
+  color: #ecedf5;
   font-size: 20px;
 
 
@@ -138,8 +138,26 @@ font-family: 'Secular One', sans-serif;
 
   font-family: 'Mulish', sans-serif;
   text-align: center;
-  color: #010310;
+  color: #dee0e8;
   font-size: 20px;
+
+
+}
+.font10{
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #e5e7f1;
+  font-size: 20px;
+
+
+}
+.font11{
+
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  color: #e5e7f1;
+  font-size: px;
 
 
 }
@@ -194,4 +212,148 @@ text-align: center;
 color:white
 
 }
+.spin {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/spin.jpg");
+ width:100px;
+height:10vh
+}
+.moral {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/moral.jpg");
+ width:100px;
+height:10vh
+}
+.rips {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/rips.jpg");
+ width:100px;
+height:10vh
+}
+.private {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/privatehell.jpg");
+ width:100px;
+height:10vh
+}
+.goyour1 {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/goyour1.jpg");
+ width:100px;
+height:10vh
+}
+.goyour2 {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/goyour2.jpg");
+ width:100px;
+height:10vh
+}
+
+.scuba {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/scubaface.jpg");
+ width:100px;
+height:10vh
+}
+.sun {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/suninside.jpg");
+ width:100px;
+height:10vh
+}
+.human {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/Human.jpg");
+ width:100px;
+height:10vh
+}
+.humanback {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/humanback.jpg");
+ width:100px;
+height:10vh
+}
+.atomic {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/Atomic.jpg");
+ width:100px;
+height:10vh
+}
+.atomicback {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/atomicback.jpg");
+ width:100px;
+height:10vh
+}
+.fullforce {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/fullforce.jpg");
+ width:100px;
+height:10vh
+}
+.glamox {
+  display:block;
+ margin-left:950px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/glamox.jpg");
+ width:100px;
+height:10vh
+}
+.sth {
+  display:block;
+  margin-left:950px;
+ background-size:100px ;
+ background-repeat: no-repeat;
+   background-image: url("images/sth.jpg");
+  width:100px;
+ height:10vh
+}
+.sth-background {
+  background-image: url("images/sth4.jpeg"); 
+  background-size: 2000px 2500px;
+  background-repeat: no-repeat;
+  width: 2010px;
+  height: 1000vh; 
+  
+  } 
 
