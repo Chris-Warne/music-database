@@ -26,9 +26,9 @@ function Home() {
        
       
    
-          <h3 className="font2">Equipment:</h3>
+          {/* <h3 className="font2">Equipment:</h3> */}
           <ul>
-     
+{/*      
          <li className= "font2">Focusrite clarett 8prex</li>
          <li className= "font2">Apogee quartet</li>
          <li className= "font2">DBX 266XS </li>
@@ -40,7 +40,7 @@ function Home() {
          <li className= "font2">Fender Telecaster</li>
          <li className= "font2">Fender Jazz Bass</li>
          <li className= "font2">Takamine EF25S</li>
-         <li className= "font2">Focusrite ISA428 MK11</li>
+         <li className= "font2">Focusrite ISA428 MK11</li> */}
          
          
         </ul>

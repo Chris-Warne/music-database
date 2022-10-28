@@ -4,8 +4,8 @@ export default [
     id: 1,
     songName:'Sunshine In A Jar',
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Genre: Rock Pop',
-    mood: 'Mood: Uplifting, Anthemic',
+    genre: ' Rock Pop',
+    mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/sunshine-in-a-jar-chris-warne?in=chris-warne-1/sets/music-libraries'
    
    
@@ -27,7 +27,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
-    mood: 'Uplifting,Corporate',
+    mood: 'Corporate',
     url:'https://soundcloud.com/chris-warne-1/gold?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -47,7 +47,7 @@ export default [
   
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock Pop',
-    mood: 'Uplifting,Corporate',
+    mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/this-charmed-life?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -57,7 +57,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'contemporary orchestral',
-    mood: 'Uplifting,Thoughtful',
+    mood: 'Thoughtful',
     url:'https://soundcloud.com/chris-warne-1/a-joyful-heart?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -67,7 +67,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
-    mood: 'Mean and Moody',
+    mood: 'Angst',
     url:'https://soundcloud.com/chris-warne-1/siren?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -76,8 +76,8 @@ export default [
     songName: 'Planet Y',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: ['Rock','Pop'],
-    mood: 'Indie,Acoustic,Pop',
+    genre: 'Rock Pop',
+    mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/planet-y?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -86,8 +86,8 @@ export default [
     songName: 'Treasured Summer',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Acoustic,folk,Alternative',
-    mood: 'Wholesome,Uplifting',
+    genre: 'Acoustic Folk',
+    mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/treasured-summer?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -97,7 +97,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'Rock',
-    mood: 'Uplifting,Anthemic',
+    mood: 'Anthemic',
     url:'https://soundcloud.com/chris-warne-1/sugar-burst?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -107,7 +107,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'Pop',
-    mood: 'Thoughtful,Inspired',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/tv-holidays?in=chris-warne-1/sets/music-libraries'
   },
    
@@ -116,8 +116,8 @@ export default [
     songName: 'The Winters Wrath',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Contemporary,Orchestral',
-    mood: 'Inspiring,Melancholy ',
+    genre: 'Contemporary Orchestral',
+    mood: 'Inspired ',
     url:'https://soundcloud.com/chris-warne-1/the-winters-wrath?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -126,8 +126,8 @@ export default [
     songName: 'Embers Of Summer',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Piano,Orchestral',
-    mood: 'Inspiring,Thoughtful',
+    genre: 'Piano Orchestral',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/embers-of-summer?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -136,8 +136,8 @@ export default [
     songName: 'Solar Winter',
    
     image:'/images/chris_warne_logo.jpg',
-    genre: 'Contemporary,Orchestral',
-    mood: 'Inspiring,Thoughtful',
+    genre: 'Contemporary Orchestral',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/solar-winter-15?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -148,7 +148,7 @@ export default [
    
     image: '/images/chris_warne_logo.jpg',
     genre: 'contemporary Orchestral',
-    mood: 'Inspiring,Uplifting',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/refelective-2?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -157,8 +157,8 @@ export default [
     songName: 'Reflective(ambient)',
    
     image:  '/images/chris_warne_logo.jpg',
-    genre: 'Contemporary,Orchestral',
-    mood: 'Inspiring,Uplifting',
+    genre: 'Contemporary Orchestral',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/refelective-amb2?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -167,8 +167,8 @@ export default [
     songName: 'An Asian Winter',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Piano,Orchestral',
-    mood: 'Inspiring,Thoughtful',
+    genre: 'Piano Orchestral',
+    mood: 'Inspired',
     url:'https://soundcloud.com/chris-warne-1/an-asian-winter-3?in=chris-warne-1/sets/music-libraries'
    
   },
@@ -187,8 +187,8 @@ export default [
     songName: 'Wholesome Morning',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Acoustic,Pop',
-    mood: 'Quirky,Uplifting',
+    genre: 'Acoustic Pop',
+    mood: 'Quirky',
     url:'https://soundcloud.com/chris-warne-1/wholesome-morning?in=chris-warne-1/sets/music-libraries'
     
   },
@@ -197,7 +197,7 @@ export default [
     songName: 'Racing To The Sun',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Rock,Pop',
+    genre: 'Rock Pop',
     mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/holidays-racing-to-the-sun?in=chris-warne-1/sets/music-libraries'
     
@@ -207,7 +207,7 @@ export default [
     songName: 'Rise Of The Mermen',
    
     image: '/images/chris_warne_logo.jpg',
-    genre: 'Pop,corporate',
+    genre: 'Corporate',
     mood: 'Uplifting',
     url:'https://soundcloud.com/chris-warne-1/rise-of-the-mermen?in=chris-warne-1/sets/music-libraries'
     

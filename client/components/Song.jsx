@@ -11,6 +11,8 @@ function song() {
 
   return (
     <>
+    <body>
+    <div className="sth-background2">
       <h1 className="songz">Song Details</h1>
       <p className="songz">Song Name:</p>
       <p className="font6">{song.songName}</p>
@@ -19,12 +21,18 @@ function song() {
       <p className='font6'>{song.mood}</p>
       <p className="songz">Genre:</p>
       <p className='font6'>{song.genre}</p>
-
-      {/* put react player below and url will pick it up */}
+       
+       {/* put react player below and url will pick it up */}
+      
       <div>
         <ReactPlayer url={song.url} />
-        <img className="imagez" src={song.image} />
+       
       </div>
+
+     
+      </div>
+      </body>
+      
     </>
   )
 }

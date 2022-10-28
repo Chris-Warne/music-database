@@ -7,6 +7,7 @@ import Nav from './Nav'
 import Song from './Song'
 import Navbar from '../components/navbar'
 import History from './History'
+import Form from '../components/Form'
 
 
 // import ReactPlayer from 'react-player'
@@ -36,9 +37,10 @@ const App = () => {
    
    <Navbar/>
    
+   
   
   
-    
+    <Form/>
      
       <Routes>
       <Route path='/' element={<Home/>} />
@@ -47,8 +49,8 @@ const App = () => {
       <Route path='/songlist' element={<Songlist/>} />
       <Route path='/songlist/:id' element={<Song/>} />
      
-      </Routes>
      
+      </Routes>
     </>
   )
 }

@@ -78,7 +78,7 @@ border-radius: 40%;
 font-family: 'Secular One', sans-serif;
   color: #dfeaea;
   text-align: center;
-  font-size: 40px
+  font-size: 30px
 }
 
 .font3 {
@@ -92,7 +92,7 @@ font-family: 'Secular One', sans-serif;
 
   font-family: 'Mulish', sans-serif;
   text-align: center;
-  color: #920a0a;
+  color: #15cdfc;
   font-size: 15px;
 
 
@@ -102,7 +102,7 @@ font-family: 'Secular One', sans-serif;
   font-family: 'Mulish', sans-serif;
   text-align: center;
   color: #15cdfc;
-  font-size: 40px;
+  font-size: 140px;
 
 
 }
@@ -156,8 +156,8 @@ font-family: 'Secular One', sans-serif;
 
   font-family: 'Mulish', sans-serif;
   text-align: center;
-  color: #e5e7f1;
-  font-size: px;
+  color: #15cdfc;
+  font-size: 30px;
 
 
 }
@@ -188,21 +188,22 @@ height: 1000px;
  }
  .font1 {
   font-family: 'Secular One', sans-serif;
-  color:#eaebf2  
+  color:#eaebf2 ; 
+  font-size: 15px
 
  }
   .background-image {
   background-image: url("images/studio_pic.jpg"); 
   background-size: 1900px 1000px;
   background-repeat: no-repeat;
-  width: 1500px;
+  width: 1440px;
   height: 100vh 
   }
 .background-image2 {
 background-image: url("images/vocalbooth.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  width: 1500px;
+  width: 1440px;
   height: 100vh; 
   image-resolution: 10%;
 }
@@ -212,136 +213,155 @@ text-align: center;
 color:white
 
 }
+.withyou {
+  display:block;
+ margin-left:450px;
+background-size:100px ; 
+background-repeat: no-repeat;
+  background-image: url("images/withyou.jpg");
+ width:100px;
+height:15vh
+}
+
+.oneday {
+  display:block;
+ margin-left:450px;
+background-size:100px ;
+background-repeat: no-repeat;
+  background-image: url("images/oneday.jpg");
+ width:100px;
+height:15vh
+}
 .spin {
   display:block;
- margin-left:950px;
+ margin-left:450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/spin.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .moral {
   display:block;
- margin-left:950px;
+ margin-left:450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/moral.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .rips {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/rips.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .private {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/privatehell.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .goyour1 {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/goyour1.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .goyour2 {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/goyour2.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 
 .scuba {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/scubaface.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .sun {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/suninside.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .human {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/Human.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .humanback {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/humanback.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .atomic {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/Atomic.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .atomicback {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/atomicback.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .fullforce {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/fullforce.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .glamox {
   display:block;
- margin-left:950px;
+ margin-left: 450px;
 background-size:100px ;
 background-repeat: no-repeat;
   background-image: url("images/glamox.jpg");
  width:100px;
-height:10vh
+height:15vh
 }
 .sth {
   display:block;
-  margin-left:950px;
+  margin-left: 450px;
  background-size:100px ;
  background-repeat: no-repeat;
    background-image: url("images/sth.jpg");
@@ -349,11 +369,27 @@ height:10vh
  height:10vh
 }
 .sth-background {
-  background-image: url("images/sth4.jpeg"); 
-  background-size: 2000px 2500px;
-  background-repeat: no-repeat;
-  width: 2010px;
-  height: 1000vh; 
+ background-image: url("images/sth4.jpeg"); 
   
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 1000vh; 
+  padding: 0.5rem calc((100vw - 1000px)/2);
   } 
+
+  @media screen and (max-width: 1200px) {
+    body {
+ background-color:#070219
+    }
+  }
+  .sth-background2 {
+    background-image: url("images/sth22.jpeg"); 
+     
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 1440px;
+     height: 90vh; 
+     /* padding: 0.5rem calc((100vw - 1000px)/2); */
+     } 
 
